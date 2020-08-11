@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "Adds a second layer with all of the default origins, allowing players to select two origins at the same time."
+  }
+}

@@ -7,5 +7,7 @@
 	],
 	"icon": "minecraft:feather",
 	"order": 0,
-	"impact": 1
+	"impact": 1,
+	"name": "Avian: Ra",
+	"description": "The Avian race has lost their ability to fly a long time ago. Now these peaceful creatures hop from place to place, never touching the ground."
 }

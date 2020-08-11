@@ -8,3 +8,5 @@ Contains example data and resource packs for the Origins mod.
 `no_phantom`: Completely disables the Phantom origin.
 
 `no_water_vision`: Removes the underwater vision power from the Merling.
+
+`second_layer`: Adds another layer with all the default origins, allowing players to choose two origins simultaneously.
