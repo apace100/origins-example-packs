@@ -4,7 +4,7 @@
   "onset_delay": 40,
   "damage": 1,
   "condition": {
-	"type": "origins:exposed_to_sun",
+	"type": "origins:exposed_to_sky",
 	"inverted": true
   },
   "name": "Desire for Freedom",
