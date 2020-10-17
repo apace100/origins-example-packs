@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"salamander:full_fire_immunity",
+		"salamander:lava_swimming",
+		"salamander:lava_vision",
+		"salamander:speed_in_lava",
+		"origins:water_vulnerability",
+		"origins:nether_spawn",
+		"origins:flame_particles",
+		"origins:damage_from_snowballs"
+	],
+	"icon": "minecraft:blaze_powder",
+	"order": 1,
+	"impact": 3,
+	"name": "Salamander",
+	"description": "Similar to Blazeborn, you are born in the Nether and fire and lava are no enemy to you."
+}

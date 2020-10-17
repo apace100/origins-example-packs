@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"deepling:night_vision",
+		"deepling:blinding_lights",
+		"deepling:cave_air",
+		"deepling:skin_of_shadows",
+		"deepling:depth_mining"
+	],
+	"icon": "minecraft:bedrock",
+	"order": 0,
+	"impact": 2,
+	"name": "Deepling",
+	"description": "The Deeplings have lived far below the surface for a time so long that most other Origins have forgotten about them."
+}

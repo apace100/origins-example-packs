@@ -1,0 +1,21 @@
+{
+  "type": "origins:stacking_status_effect",
+  "min_stacks": 0,
+  "max_stacks": 8,
+  "duration_per_stack": 10,
+  "effects": [
+    {
+      "effect": "minecraft:blindness",
+      "is_ambient": true,
+      "show_particles": false,
+      "show_icon": false
+    }
+  ],
+  "condition": {
+    "type": "origins:brightness",
+	"comparison": ">=",
+	"compare_to": 0.3
+  },
+  "name": "Blinded by the Lights",
+  "description": "Being in too much light blinds you."
+}

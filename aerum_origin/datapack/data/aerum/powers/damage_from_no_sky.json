@@ -1,0 +1,12 @@
+{
+  "type": "origins:damage_over_time",
+  "interval": 80,
+  "onset_delay": 40,
+  "damage": 1,
+  "condition": {
+	"type": "origins:exposed_to_sun",
+	"inverted": true
+  },
+  "name": "Desire for Freedom",
+  "description": "You always want to be able to see the sky, because otherwise you will slowly take damage."
+}

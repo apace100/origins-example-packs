@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+	"name": "No exhaustion from Origin power",
+	"attribute": "minecraft:generic.max_health",
+	"operation": "addition",
+	"value": -12
+  },
+  "name": "Vulnerable",
+  "description": "Having kept away from danger for long, your body can't take a lot of damage anymore."
+}

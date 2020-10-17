@@ -1,0 +1,15 @@
+{
+  "type": "origins:modify_break_speed",
+  "block_condition": {
+    "type": "origins:height",
+    "comparison": "<=",
+	"compare_to": 32
+  },
+  "modifier": {
+    "name": "Depth Mining break speed bonus",
+    "value": 0.4,
+    "operation": "multiply_base"
+  },
+  "name": "Depth Mining",
+  "description": "Your body is well suited to breaking blocks in the depths of the world. Your break speed is increased for blocks below elevation 32."
+}

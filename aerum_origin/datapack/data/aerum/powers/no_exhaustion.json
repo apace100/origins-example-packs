@@ -1,0 +1,10 @@
+{
+  "type": "origins:modify_exhaustion",
+  "modifier": {
+	"name": "No exhaustion from Origin power",
+	"operation": "multiply_total",
+	"value": 0
+  },
+  "name": "Ethereal Body",
+  "description": "You do not exhaust."
+}

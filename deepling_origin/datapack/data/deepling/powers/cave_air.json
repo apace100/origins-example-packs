@@ -1,0 +1,11 @@
+{
+  "type": "origins:prevent_sleep",
+  "block_condition": {
+    "type": "origins:height",
+	"comparison": "<=",
+	"compare_to": 32
+  },
+  "message": "You can not sleep here, try a bed lower than or equal to y = 32.",
+  "name": "Cave Air",
+  "description": "Having lived as far down as possible for a long time, your body is only comfortable sleeping in the depths of y = 32 and lower."
+}
