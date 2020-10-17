@@ -10,3 +10,9 @@ Contains example data and resource packs for the Origins mod.
 `no_water_vision`: Removes the underwater vision power from the Merling.
 
 `second_layer`: Adds another layer with all the default origins, allowing players to choose two origins simultaneously.
+
+`aerum_origin`: Adds an additional origin, the Aerum, along with the required powers.
+
+`deepling_origin`: Adds an additional origin, the Deepling, along with the required powers.
+
+`salamander_origin`: Adds an additional origin, the Salamander, along with the required powers.
