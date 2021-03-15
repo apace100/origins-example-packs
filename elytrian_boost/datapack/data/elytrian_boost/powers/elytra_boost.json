@@ -1,0 +1,31 @@
+{
+  "type": "origins:active_self",
+  "name": "Boosting",
+  "description": "Trying to jump while flying with your Elytra will provide you with a small forward boost.",
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:add_velocity",
+        "z": 0.8,
+        "space": "local"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "playsound minecraft:entity.firework_rocket.launch master @s ~ ~ ~ 1 1"
+      }
+    ]
+  },
+  "condition": {
+    "type": "origins:fall_flying"
+  },
+  "cooldown": 60,
+  "hud_render": {
+    "should_render": true,
+    "bar_index": 4
+  },
+  "key": {
+    "key": "key.jump",
+    "continuous": false
+  }
+}

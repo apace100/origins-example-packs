@@ -1,0 +1,15 @@
+{
+	"loading_priority": 10,
+	"powers": [
+		"origins:elytra",
+		"origins:launch_into_air",
+		"elytrian_boost:elytra_boost",
+		"origins:aerial_combatant",
+		"origins:light_armor",
+		"origins:claustrophobia",
+		"origins:more_kinetic_damage"
+	],
+	"icon": "minecraft:elytra",
+	"order": 3,
+	"impact": 1
+}
