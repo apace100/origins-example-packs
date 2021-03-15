@@ -18,3 +18,5 @@ Contains example data and resource packs for the Origins mod.
 `salamander_origin`: Adds an additional origin, the Salamander, along with the required powers.
 
 `elytrian_boost`: Shows how to add a custom power to an existing origin.
+
+`faster_avian`: Shows how to override an existing power.
